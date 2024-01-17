@@ -2,6 +2,9 @@
 
 - Creating React App
 - Configured TailwindCss
+- Header
+- Login Form
+- Sign up Form
 
 
 # Features
@@ -9,7 +12,7 @@
     - Sign In /Sign up Form
     - Redirect to Browse Page
 - Browse (after authentication)
-    - Headergit config --global user.email "you@example.com"
+    - Header
     - Main Movie
         - Trailer in Background
         - Title & Description
